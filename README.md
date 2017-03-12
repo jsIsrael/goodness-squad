@@ -1,4 +1,4 @@
-# goodness-squad
+# Goodness Squad
 The goodness squad line of events is a community effort to do good and meet one another through open source contribution. We meet once a month for a festive evening of coding and FTF interaction. Yey!
 
 More info can be found about it [in this post](https://hackernoon.com/goodness-squad-a8704d594a7a).
