@@ -5,10 +5,18 @@ Every project lead should collect a bit of data during the event about what was 
 
 To assist in data collection, and to provide a general direction, here are the things worth mentioning.
 
-## Things to mention
+## Things worth mentioning
 
 1. How many issues were resolved?
 2. How many issues were created?
 3. How many PR's were submitted?
 4. How many PR's were merged?
-5. Anything else you'd like to mention?
+5. What was the nature of contributions?
+  * Core features
+  * Bug fixes
+  * Documentation
+  * Testing
+  * Refactor
+  * Build scripts
+  * Other
+6. Anything else you'd like to mention?
