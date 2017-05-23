@@ -45,7 +45,7 @@ When contacting a project lead, the following points can help:
 
 
 There’s a document intended for project leaders, once they have been chosen to take part in an event:
-https://github.com/jsIsrael/goodness-squad/blob/master/project-leaders-brief.md
+https://jsisrael.github.io/goodness-squad/project-leaders-brief
 
 Learning more: you can direct them to this blog post:
 https://hackernoon.com/goodness-squad-a8704d594a7a
@@ -66,7 +66,7 @@ The main focus is to get people passionate about your project, and then you’ll
 ## 2. Logistics
 The event is published in Meetup and Facebook by Alon about 2-2.5 weeks ahead of time.
 The meetup page isn’t used for registration. There’s a [google form](https://docs.google.com/forms/d/e/1FAIpQLSdkNS0OSzN1bI6-JpKo_THcv9tvWnFi5yumP_cHaPpZXx-79g/viewform) for that.
-Once the event is published, Alon sends out an email to project leaders with information and a link to the [briefing doc](https://github.com/jsIsrael/goodness-squad/blob/master/project-leaders-brief.md).
+Once the event is published, Alon sends out an email to project leaders with information and a link to the [briefing doc](https://jsisrael.github.io/goodness-squad/project-leaders-brief).
 Alon let’s everyone know they are confirmed as soon as they register. 
 
 *TODO: Once the list is full we should communicate that to the community*.
