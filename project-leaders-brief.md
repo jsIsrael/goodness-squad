@@ -4,9 +4,22 @@ This document should be read by project leaders at least 1 week before the event
 This doc also serves for sending out to people who show interest in being a project leader, by clarifying what are the responsibilities. This way they can make an educated decision whether it's suitable for them and for the project.
 
 ## 1. Preparation
-**Get ready with some issues and tasks**.
+### Issues and tasks
 Those could be bugs, features, documentation, tests, usage etc.
 If there are github labels like “up for grabs” or “good first bugs” that’s great.
+
+### Cheatsheet
+It's easier for participants to get a small printed paper with instruction and important data.
+Here's a template with 4 sheets per A4 page with the relevant data for you to fill out:
+https://docs.google.com/document/d/1rEw6BDuNxSJBvn6G7fmlN9PP7RgeSI1HgeCcKfUK_cw/edit?usp=sharing
+
+### Participant preparation
+Installation can take up too much time during the event. We've seen this happen, even to the extreme of spending the whole event just installing a local dev environment.
+To avoid this, add the instructions from the cheatsheet to the event's project document. The registered participants will get a link to the document, and be able to install local dev envs for the projects they might choose to participate in. This will speed things up and help you avoid unnecessary delays in development during the event.
+
+### Theme
+Optionally, you can prepare a theme for the event - a big feature for everyone to work on, or a similar task like code cleanup, visual polish, tests, documentation, etc.
+You could prepare a few themes and divide into groups.
 
 ## 2. At the event
 ### Start
