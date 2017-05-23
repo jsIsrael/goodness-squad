@@ -10,5 +10,5 @@ More info can be found about it [in this post](https://hackernoon.com/goodness-s
 We'd like to document the process of organizing the events. We believe in transparency, and whoever wishes to organize their own line of coding events might find the information here useful.
 This also serves for having the resources available for our own team of organizers, who voluntarily spend time to make the events with the best quality and as fun as possible.
 
-- Event organizers - read this
-- Project leads - read this
+- Event organizers - [read this](https://github.com/jsIsrael/goodness-squad/blob/master/how-to-organize-an-event.md)
+- Project leads - [read this](https://github.com/jsIsrael/goodness-squad/blob/master/project-leaders-brief.md)
