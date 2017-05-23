@@ -43,7 +43,7 @@ When contacting a project lead, the following points can help:
   * Help and explanations on technologies and architecture
   * Help with communication and process against the core committers.
 
-
+#### What a project lead should do
 There’s a document intended for project leaders, once they have been chosen to take part in an event:
 https://jsisrael.github.io/goodness-squad/project-leaders-brief
 
@@ -69,7 +69,10 @@ The meetup page isn’t used for registration. There’s a [google form](https:/
 Once the event is published, Alon sends out an email to project leaders with information and a link to the [briefing doc](https://jsisrael.github.io/goodness-squad/project-leaders-brief).
 Alon let’s everyone know they are confirmed as soon as they register. 
 
-*TODO: Once the list is full we should communicate that to the community*.
+**Once the list is full we should communicate that to the community**
+
+### Event information document
+In the [events](https://github.com/jsIsrael/goodness-squad/tree/gh-pages/events) folder you should create a markdown doc for the event. The doc should contain the hashtag #goodnessSquad, the list of projects with information about the project lead, the gitter channel, and instructions for setting up a local development environment. Participants should be encouraged to set up their env prior to the event for the project(s) they think they will participate in.
 
 
 
