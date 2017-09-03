@@ -1,4 +1,4 @@
-# Goodness Squad - July 2017
+# Goodness Squad - September 2017
 Listed bellow are the projects participating in this event.
 If you are attending, please take time prior to the event to choose a project and set up a local development environment.
 At the event there will be brief presentations of the projects (1 minutes per project), and you will be able to choose the project you wish to contribute to,
