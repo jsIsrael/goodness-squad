@@ -62,6 +62,12 @@ The two relevant projects are eslint-plugin-typescript and typescript-eslint-par
 
 ### 5. [UiZoo](https://github.com/myheritage/uizoo.js)
 
+UiZoo is a dynamic component library in React; it will automatically generate component pages for development or showcasing.
+
+[Contributing guide can be found here](https://github.com/myheritage/UiZoo.js/blob/master/CONTRIBUTING.md).
+
+It works with both Mac and Windows.
+
 ### 6. [Node.js](https://github.com/nodejs/node)
 
 ### 7. [Tweek](https://github.com/Soluto/tweek)
