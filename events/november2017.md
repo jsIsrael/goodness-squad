@@ -71,3 +71,13 @@ It works with both Mac and Windows.
 ### 6. [Node.js](https://github.com/nodejs/node)
 
 ### 7. [Tweek](https://github.com/Soluto/tweek)
+Prerequisites:
+- Docker for windows/mac (17-06+)
+- Node 8+
+- Yarn 1.0+
+- .Net core (Optional)
+
+Build & Run:
+- git clone https://github.com/Soluto/tweek.git
+- yarn build
+- yarn start
